@@ -7,7 +7,6 @@ This project provides an interactive dashboard for HR analytics, designed to vis
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Insights](#insights)
-- [Technologies Used](#technologies-used)
 ## Project Overview
 
 The HR Analytics Dashboard displays various metrics that help HR departments analyze workforce trends. The dashboard includes insights on:
@@ -16,7 +15,6 @@ The HR Analytics Dashboard displays various metrics that help HR departments ana
 - Total hires and average salary
 - Employee distribution by role and education field
 - Department performance metrics
-![Dashboard 1](https://github.com/user-attachments/assets/07a69cd9-aa0e-4cda-8aff-2fef9c218b0a)
 ![Dashboard 1](https://github.com/user-attachments/assets/07a69cd9-aa0e-4cda-8aff-2fef9c218b0a)
 
 
